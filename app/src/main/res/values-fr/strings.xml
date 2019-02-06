@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Calculatrice de Frais de Livraison</string>
+<string name="weight_prompt">Poids du paquet</string>
+<string name="weight_units">(en onces)</string>
+<string name="base_cost">Frais de Base</string>
+<string name="added_cost">Frais Supplémentaire</string>
+<string name="shipping_cost">Frais Total de Livraison</string>
+<string name="zero">0</string>
+    </resources>
